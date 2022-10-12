@@ -14,10 +14,6 @@ School Summary:
 
 The main point of this analysis is to breakdown the district data to determine if the budget allocated per child, the type of school (District or Charter) and the size of the school have an effect on overall passing rates per school.
 
-These points are summarized in the following table:
-
- 
-
 
 Budget Per Student:
 
